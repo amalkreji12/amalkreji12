@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Amal K Reji
-- 👀 I’m interested in ...
 - 🎓 Studying Electronics & Computer Engineering at Amrita Vishwa Vidyapeetham.
 
 <!---
